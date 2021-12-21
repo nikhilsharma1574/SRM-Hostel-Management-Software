@@ -1,0 +1,29 @@
+                                              SRM DATA SERVER
+
+
+NAME    YEAR       HOSTEL       MESS                TRANSPORT          FEES          DATE AND TIME
+
+
+
+Arthav Year= 2    AC Hostel	Mess Added	Transport Not Added   230000 
+Nikhil Year= 1    AC Hostel	Mess Not Added	Transport Added	      290000
+Aditya Year= 1    AC Hostel	Mess Not Added	Transport Added	      129000
+Jishanto Year= 1    AC Hostel	Mess Not Added	Transport Added	      214000 Sat Aug 14 08:58:17 2021
+Siddham Year= 2    AC Hostel	Mess Not Added	Transport Not Added   290000		
+Nishant Year= 1    AC Hostel	Mess Not Added	Transport Not Added   214000	
+Naman Year= 2    AC Hostel	Mess Not Added	Transport Added	      129000
+Phanindra Year= 1    AC Hostel	Mess Added	Transport Not Added   129000 Sat Aug 14 08:58:17 2021	
+Harshit Year= 1    AC Hostel	Mess Added	Transport Not Added   129000	
+Suyash Year= 1    AC Hostel	Mess Added	Transport Not Added   290000	
+Shubhankar Year= 1    AC Hostel	Mess Added	Transport Not Added   129000	
+Isheeta Year= 1    AC Hostel	Mess Not Added	Transport Added	      214000
+Aihika Year= 1    AC Hostel	Mess Not Added	Transport Added	      110000
+Khushi Year= 2    AC Hostel	Mess Not Added	Transport Added	      129000 Sat Aug 14 08:58:17 2021
+Anushka Year= 3    AC Hostel	Mess Not Added	Transport Added	      230000
+Khyati Year= 2    AC Hostel	Mess Not Added	Transport Added	      290000
+Anamika Year= 2    AC Hostel	Mess Not Added	Transport Not Added   120000 Sat Aug 14 08:58:17 2021	
+Lipisha Year= 2    AC Hostel	Mess Not Added	Transport Added	      200000
+Apporva Year= 1   NON-AC Hostel	Mess Not Added	Transport Added	      129000 
+Ayush Year= 3   NON-AC Hostel	Mess Not Added	Transport Added	      129000 Sat Aug 14 08:58:17 2021
+Nikhil Year= 2    AC Hostel	Mess Added	Transport Not Added	230000 Sat Aug 14 10:13:04 2021
+ 
